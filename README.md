@@ -1,4 +1,4 @@
-##### Fórmate como Developer:
+##### Curso Online:
 # Programación y Código en Python
 
 Este repositorio contiene las clases asociadas con el curso en Udemy [Programación y Código en Python](https://www.udemy.com/course/programacion-y-codigo-en-python) en formato Jupyter Notebook. 
